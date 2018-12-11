@@ -1,2 +1,16 @@
-# Sistama-de-vendas---Loja-Nerdz
+# Sistema de vendas-Loja-Nerdz
 Projeto para a disciplina de Lógica de Programação do curso de Ciência da computação da UFMA, ministrado pelo Prof. Me. Francisco Glaubos N. Clímaco.
+
+# Sobre:
+* Sistema de vendas feito para uma loja do seguimento nerd, com a possibilidade de vender vários produtos de categorias diferentes. 
+
+* O sistema é capaz de cadastrar clinetes e produtos, também é possível excluí-los, editá-los e lista-los. Também é póssível realizar vendas e gerar um relatório geral das vendas, com o nome, o produto, a quantidade comprada, o valor total e troco.
+
+# Funcionamento:
+* O sistema funciona com três listas simplesmente encadeadas, uma para armazenar os clientes, outra para armazenar os produtos e uma para guardar algumas informações para o relatório. Cada vez que um cliente ou um produto é cadastrado, ele é guardado em um arquivo .txt, que são *Clientes.txt* e *Produtos.txt*, quando é removido um cliente ou um produto essa informação também é removida dos arquivos em questão.
+
+* O relatório de vendas é armazenado também em um arquivo .txt chamado *Relatorio.txt*, qualquer venda feita é descrita neste arquivo. Para cada vez que é realizada uma venda, é também adicionada a data e a hora em que a venda ocorreu para uma melhor organização.
+
+
+# Imagens:
+* Menu:
