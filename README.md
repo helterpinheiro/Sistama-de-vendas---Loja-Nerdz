@@ -14,3 +14,10 @@ Projeto para a disciplina de Lógica de Programação do curso de Ciência da co
 
 # Imagens:
 * Menu:
+
+![menu](https://user-images.githubusercontent.com/39394109/49773376-9ef3ae80-fccf-11e8-8366-81315f047f66.jpg)
+
+* Menu Editar:
+
+
+
