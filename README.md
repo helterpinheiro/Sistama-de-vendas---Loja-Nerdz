@@ -27,6 +27,10 @@ Projeto para a disciplina de Lógica de Programação do curso de Ciência da co
 
 ![lista_clientes](https://user-images.githubusercontent.com/39394109/49774401-7077d280-fcd3-11e8-9360-7f65b61a9c6a.jpg)
 
+* Relatorio:
+
+![realatorio](https://user-images.githubusercontent.com/39394109/49774937-39a2bc00-fcd5-11e8-8afd-210ea7024138.jpg)
+
 
 
 
