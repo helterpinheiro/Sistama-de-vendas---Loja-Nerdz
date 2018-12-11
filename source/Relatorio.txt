@@ -1,0 +1,16 @@
+Cliente: joao kleber
+Compra efetuada em: 11/21/18 as: 00:42:07
+Produto: placa mae
+Desconto%: 20.00
+Valor: 26356.00
+Unidades compradas: 5
+Troco: 13644.00
+
+Cliente: joao kleber
+Compra efetuada em: 11/21/18 as: 00:43:12
+Produto: placa mae
+Desconto%: 30.00
+Valor: 23061.50
+Unidades compradas: 5
+Troco: 0.000000
+

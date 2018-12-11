@@ -1,0 +1,12 @@
+NOME: placa mae
+TIPO: placa mae
+PRECO: 45.00
+QTD: 60
+ID: 354
+
+NOME: arroz
+TIPO: comida
+PRECO: 556.000000
+QTD: 13
+ID: 1111
+
