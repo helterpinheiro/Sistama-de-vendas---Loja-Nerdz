@@ -22,7 +22,7 @@ Projeto para a disciplina de Lógica de Programação do curso de Ciência da co
 
 ![editar_menu](https://user-images.githubusercontent.com/39394109/49774684-496dd080-fcd4-11e8-9918-40461f926afc.jpg)
 
-* Lista de Clientes:
+* Lista de Produtos:
 
 
 ![lista_clientes](https://user-images.githubusercontent.com/39394109/49774401-7077d280-fcd3-11e8-9360-7f65b61a9c6a.jpg)
